@@ -7,4 +7,10 @@ joe:
     first_name: "joe"
     last_name: "Gross"
     email: "jgross881@gmail.com"
-    profile_name: "jgross881"    
+    profile_name: "jgross881"   
+    
+claine:
+   first_name: "Claine"
+   last_name: "Amparo"
+   email: "diamond.profile@yahoo.com"
+   profile_name: "clainamparo" 
